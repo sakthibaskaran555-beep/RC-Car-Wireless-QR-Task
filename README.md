@@ -489,19 +489,6 @@ The demonstrated system uses:
 
 ---
 
-# 👥 Team Information
-
-**Team Number:** TEAM-XX
-
-| Name   | Role                      |
-| ------ | ------------------------- |
-| Name 1 | Hardware / RC Car         |
-| Name 2 | Computer Vision           |
-| Name 3 | ESP32 / Bluetooth Control |
-| Name 4 | Integration / Testing     |
-
----
-
 # ⭐ Overall Workflow
 
 ```text
